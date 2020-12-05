@@ -40,7 +40,7 @@ public class SnakeLadder {
 			return position;	
 			
 			
-		}
+	}
 }
 
 
